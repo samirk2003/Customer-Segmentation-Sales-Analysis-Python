@@ -1,7 +1,7 @@
-# Diwali-Sales-Analysis
+# Customer Segmentation & Sales Trend Analysis (Python)
 
 ## 📌 Project Overview
-This project performs Data cleaning and manipulaion, Exploratory Data Analysis (EDA) on a Diwali sales dataset to understand customer behavior and sales patterns.
+This project performs Data cleaning and manipulaion, Exploratory Data Analysis (EDA) on a retail sales dataset(diwali sales data) to understand customer behavior and sales patterns.
 
 ## 🛠 Tools & Libraries Used
 - Python
